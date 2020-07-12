@@ -5,10 +5,10 @@ This is a python based desktop application to visualize sorting algorithms in re
 ![](Screenshots/1.png)
 
 ## Quick Sort
-![](Screenshots/1.png)
+![](Screenshots/4.png)
 
 ## Merge Sort
-![](Screenshots/1.png)
+![](Screenshots/6.png)
 
 ## After Sorting
-![](Screenshots/1.png)
+![](Screenshots/3.png)
